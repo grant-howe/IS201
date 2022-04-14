@@ -2,3 +2,31 @@ body{
     background-color: gainsboro;
 }
 
+.title{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.red{
+    color: rgb(160, 0, 0);
+}
+
+.blue{
+    color: blue;
+}
+
+.fancyResumeFont{
+    font-family: monospace;
+}
+
+.right{
+    text-align: right;
+}
